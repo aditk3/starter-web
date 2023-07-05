@@ -14,5 +14,7 @@ This is a simple web project, deployement can be on any web serv, or even on the
 
 Sample website with plenty of files for demos
 
+Please fork thois repo and issue pull request for rveiw.
+
 ### Copyright
 Git training
