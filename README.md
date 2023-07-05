@@ -13,3 +13,6 @@ As stated above, the main purpose is to provide simple training examples for Git
 This is a simple web project, deployement can be on any web serv, or even on the local file system.
 
 Sample website with plenty of files for demos
+
+### Copyright
+Git training
